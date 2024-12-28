@@ -1,6 +1,15 @@
 # st_tools
 Streamlit tools
 
+## Install
+```requirements.txt
+git+https://github.com/Hu-Wentao/st_tools.git
+```
+or
+```sh
+pip install git+https://github.com/Hu-Wentao/st_tools.git
+```
+
 ## State Management: `tool_s_state`
 
 ```python
